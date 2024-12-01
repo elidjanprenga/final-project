@@ -1,0 +1,25 @@
+.sectionContainer {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .box {
+    z-index: 1;
+    background-color:#323232;
+  }
+  
+  .inputField::placeholder{
+    text-align: center;
+  }
+ 
+  .redLine {
+    position: absolute;
+    width: 100%;
+    height: 5px;
+    background-color: #FF6F0F;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: -1;
+  }
