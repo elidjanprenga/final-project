@@ -10,4 +10,4 @@
 | Sa responsive është designi                          | 9    |
 | Konsistenca në design dhe kreativitet                | 7    |
 | Overall my experience edhe pritshermite per ju       | 3    |
-| Totali i pikëve                                      | 45   |
+| Totali i pikëve                                      | 59   |
